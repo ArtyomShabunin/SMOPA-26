@@ -1,4 +1,4 @@
-name: smopa_25
+name: smopa_26
 channels:
   - conda-forge
   - pytorch
