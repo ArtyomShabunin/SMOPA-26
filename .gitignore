@@ -3,5 +3,6 @@
 .conda
 *.png
 *.csv
+*.gzip
 option_0
 
