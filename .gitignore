@@ -5,5 +5,5 @@
 *.csv
 *.gzip
 option_0
-lesson_12.ipynb
 lesson-11 _hide.ipynb
+lesson_11 _from_lesson.ipynb
